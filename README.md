@@ -4,6 +4,8 @@
 
 ![perro](https://humanidades.com/wp-content/uploads/2017/02/perro-3-e1561679226953.jpg)
 
+![perro2](./assets/descarga.jpeg)
+
 - Limpiar la pileta
 * Limpiar la casa.
 
