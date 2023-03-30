@@ -1,10 +1,8 @@
-<h1> Presentacion Valentino Chiappanni</h1>
-
-<h2> Hola Mundo! </h2>
+# Presentacion Valentino Chiappanni
 
 ## hola mundo
 
-![perro](./assets/perro.jpeg)
+![perro](https://humanidades.com/wp-content/uploads/2017/02/perro-3-e1561679226953.jpg)
 
 - Limpiar la pileta
 * Limpiar la casa.
